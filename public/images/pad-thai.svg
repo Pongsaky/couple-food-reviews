@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#FDF2F8"/>
+  <text x="50%" y="45%" font-family="Arial" font-size="48" fill="#DB2777" text-anchor="middle">
+    Pad Thai
+  </text>
+  <text x="50%" y="55%" font-family="Arial" font-size="24" fill="#BE185D" text-anchor="middle">
+    Food Review Image
+  </text>
+</svg>
